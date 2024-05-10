@@ -1,11 +1,8 @@
 # Reverse_Shells_Hub - XORPIOv
 
-![](https://github.com/XORPIOv/lib/blob/main/20240426_005902.jpg)
+![](https://github.com/XORPIOv/lib/blob/main/sharingan.png)
 
 **Reverse Shells Hub is a repository containg reverse shells for most used languages**
-
-![](https://github.com/XORPIOv/lib/blob/main/coding%20languages.png)
-
 
 Download all the Reverse Shells on Linux by the command  **git clone https://github.com/XORPIOv/reverse_shells.git**
 OR download as **ZIP FILE** for Windows
