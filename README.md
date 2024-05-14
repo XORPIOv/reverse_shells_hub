@@ -7,8 +7,9 @@
 Download all the Reverse Shells on Linux by the command  
 ```bash
 git clone https://github.com/XORPIOv/reverse_shells.git
-OR download as **ZIP FILE** for Windows or Linux
 ```
+OR download as **ZIP FILE** for Windows or Linux
+
 ## Shells
 Find the **latest versions of all the scripts in [the releases page](https://github.com/XORPIOv/reverse_shells.git)**.
 ## Python
