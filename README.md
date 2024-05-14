@@ -4,9 +4,11 @@
 
 **Reverse Shells Hub is a repository containg reverse shells for most used languages**
 
-Download all the Reverse Shells on Linux by the command  **git clone https://github.com/XORPIOv/reverse_shells.git**
-OR download as **ZIP FILE** for Windows
-
+Download all the Reverse Shells on Linux by the command  
+```bash
+git clone https://github.com/XORPIOv/reverse_shells.git
+OR download as **ZIP FILE** for Windows or Linux
+```
 ## Shells
 Find the **latest versions of all the scripts in [the releases page](https://github.com/XORPIOv/reverse_shells.git)**.
 ## Python
